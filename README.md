@@ -8,7 +8,7 @@ I'm a versatile software developer with more than 5 years of experience in devel
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [mostafa.alternative@gmail.com](mailto:mostafa.alternative@gmail.com)
-* 🚀  I'm currently working on [NewsNuggets (news app)](http://github.com/Mostafa3la2/NewsNuggets)
+* 🚀  I'm currently working on [NewsNuggets (news app)](http://github.com/Mostafa3la2/NewsNuggets) && [PennyPockets (money saving app)](https://github.com/Mostafa3la2/Penny-Pockets)
 * 🧠  I'm learning SwiftData and other new features of SwiftUI
 * 🤝  I'm open to collaborating on iOS Projects using either SwiftUI or UIKit
 * ⚡  I also have experience in cross platform development using Flutter
